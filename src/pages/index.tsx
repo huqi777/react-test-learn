@@ -8,7 +8,7 @@ function index() {
         <div className="btn">登录</div>
         <div className="back"></div>
       </div>
-      <div className="content"></div>
+      <div className="content">f </div>
 
     </div>
   )
