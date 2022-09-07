@@ -10,6 +10,7 @@ function index() {
       </div>
       <div className="content">f 最好是 add news</div>
       <div>new element</div>
+      <div>1.1111111</div>
 
     </div>
   )
