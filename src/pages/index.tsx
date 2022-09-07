@@ -12,6 +12,7 @@ function index() {
       <div>new element</div>
       <div>1.1111111</div>
       <div>222222.22222</div>
+      <div>333333.333/333/3/3/3/3</div>
     </div>
   )
 }
